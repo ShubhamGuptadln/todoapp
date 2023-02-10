@@ -5,6 +5,7 @@ import time
 #print(help(functions.readline))
 day = time.strftime("%b-%d-%Y %H:%M:%S")
 print(day)
+print("Hii")
 
 while True:
     do = input("Enter add or show or complete or edit or exit")
